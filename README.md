@@ -7,7 +7,7 @@ To contribute to this project we require you to read and sign the [Contributors 
 
 To sign the Contributors License Agreement do the following:
 
-1. Create a new pull request where u add your username to the [.clabot](.clabot) file. The username needs to be without `@` so `renetnielsen` not `@renetnielsen`.
+1. Create a new pull request where you add your username to the [.clabot](.clabot) file. The username needs to be without `@` so `renetnielsen` not `@renetnielsen`.
 
 2. Disregard the cla-bot check, and merge your pull request into the `main` branch (no approval needed)
 
