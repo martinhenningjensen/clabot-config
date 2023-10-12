@@ -135,6 +135,7 @@
     "rf-halfspace",
     "knn-halfspace",
     "cenh-halfspace",
+    "mhj-halfspace",
     "krmoos",
     "CodingDegen",
     "MortMH",
